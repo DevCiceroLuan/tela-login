@@ -1,0 +1,31 @@
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #017142;
+}
+
+
+.container{
+    width: 50%;
+    text-align: center;
+
+}
+
+div input{
+  background-color: wheat;
+}
+
+div label{
+    background-color: aliceblue;
+}
+fieldset button{
+    background-color: whitesmoke;
+    color: black;
+
+}
+
+fieldset h2{
+    color: aliceblue;
+}
